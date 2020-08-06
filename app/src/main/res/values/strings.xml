@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KOOM</string>
+
+    <string name="lorem">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</string>
+
+    <string name="bantuan1">Koom tidak memungut biaya apapun kepada Merchant. Tujuan kami adalah membantu para Merchant Tokopedia untuk mendapatkan bantuan pinjaman dengan mudah sehingga usahanya dapat lebih berkembang. Namun dalam proses ini ada beberapa mitra penyedia pinjaman yang menerapkan biaya administrasi.</string>
+
+
+    <string name="bantuan2">Ya. Anda bisa mengajukan permohonan pinjaman kepada lebih dari satu mitra penyedia pinjaman. Namun jika Anda sudah mendapat pinjaman produktif dari sebuah mitra penyedia pinjaman, maka permohonan untuk pinjaman berikutnya pada umumnya akan ditolak oleh mitra lain.</string>
+
+    <string name="facebook_app_id">Your App Id</string>
+
+    <string name="fb_login_protocol_scheme">Fb_Protocol Scheme</string>
+
+
+</resources>

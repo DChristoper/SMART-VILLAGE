@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644950540015",
+    "firebase_url": "https://databasekoom.firebaseio.com",
+    "project_id": "databasekoom",
+    "storage_bucket": "databasekoom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644950540015:android:647c08e406df597a",
+        "android_client_info": {
+          "package_name": "id.koom.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644950540015-7v49bk9bq11o26upqtvq80iqoccnanb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.koom.app",
+            "certificate_hash": "861f5d9c90606292bc87b13cbfcfdb71057965a3"
+          }
+        },
+        {
+          "client_id": "644950540015-agd4s9mpfbtvr9eq2hm08h495oman8o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyOjcVBrJ-bMIpg0WQk3IJg4IKQPh7Aoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644950540015-agd4s9mpfbtvr9eq2hm08h495oman8o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

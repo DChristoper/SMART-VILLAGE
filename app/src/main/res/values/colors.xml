@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#01AED6</color>
+    <color name="colorAccentDark">#01AED6</color>
+    <color name="colorAccentLight">#01AED6</color>
+
+    <color name="overlay_dark_10">#1A000000</color>
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="overlay_dark_30">#4D000000</color>
+    <color name="overlay_dark_40">#66000000</color>
+    <color name="overlay_dark_50">#80000000</color>
+
+    <color name="overlay_light_10">#1AFFFFFF</color>
+    <color name="overlay_light_30">#4DFFFFFF</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+
+
+    <!--Material color list from https://material.io/guidelines/style/color.html-->
+
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+
+    <color name="light_blue_800">#01AED6</color>
+
+    <color name="green_500">#4CAF50</color>
+
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="yellow_600">#FDD835</color>
+
+    <color name="deep_orange_500">#FF5722</color>
+
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_800">#37474F</color>
+
+    <color name="indigo_300">#7986CB</color>
+
+    <color name="light_green_400">#9CCC65</color>
+
+    <color name="purple_400">#AB47BC</color>
+    <color name="purple_600">#8E24AA</color>
+
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="blue_800">#1565C0</color>
+
+    <color name="orange_300">#FFB74D</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="orange_600">#FB8C00</color>
+
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_300">#E0E0E0</color>
+
+
+    <!--for random color generator -->
+
+    <color name="sky1">#69C4F3</color>
+    <color name="sky2">#ECF9FF</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="icon_blue_80">#6AA7B9</color>
+
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/lyt_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <RelativeLayout
+        android:id="@+id/lyt_article_cover"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:visibility="visible">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="52dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp"
+            android:text="PANDUAN PEMBAYARAN"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="@color/blue_800" />
+
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="63dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="521dp"
+            android:text="
+1. Pilih jumlah dan lama pinjaman yang Anda inginkan. IIsi formulir pengajuan
+dan klik “Kirim Formulir”."
+            android:textColor="@color/blue_800" />
+
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="63dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="453dp"
+            android:text="
+1. Pilih jumlah dan lama pinjaman yang Anda inginkan. IIsi formulir pengajuan
+dan klik “Kirim Formulir”."
+            android:textColor="@color/blue_800" />
+
+        <TextView
+            android:layout_width="389dp"
+            android:layout_height="63dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="-2dp"
+            android:layout_marginRight="-2dp"
+            android:layout_marginBottom="379dp"
+            android:text="
+1. Pilih jumlah dan lama pinjaman yang Anda inginkan. IIsi formulir pengajuan
+dan klik “Kirim Formulir”."
+            android:textColor="@color/blue_800" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
